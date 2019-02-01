@@ -1,0 +1,68 @@
+body{
+    font-family: 'Sarabun', sans-serif;
+    background-color: #0CE8CF;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 120px;
+    color: #184F49;
+}
+
+.titulo{
+    position: relative;
+    left: 733px;
+    width: 396px;
+}
+
+#bar{
+    left: 300px;
+    width: 1080px;
+    padding-left: 425px;
+    padding-right: 395px;
+    padding-top: 10px;
+    height: 580px; 
+}
+
+h3{
+    font-size: 80px;
+    color: rgb(0, 72, 94);
+}
+
+#sobre{
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+
+#random{
+    position: relative;
+    left: 490px;
+    top: -178px; 
+    width: 620px;
+}
+
+footer{
+    position: relative;
+}
+
+.posts{
+    position: relative;
+    top: 70px;
+}
+
+.lista{
+    font-size:30px;
+    color: rgb(0, 72, 94);
+}
+
+.conteudo{
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-bottom: 5px;
+    padding-left: 70px;
+}
